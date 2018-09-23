@@ -1,0 +1,25 @@
+.form-control{
+    text-align: center;
+    border: none;
+}
+input{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.invoice{
+    margin-top: -50px;
+    background-color: gray;
+    color: white;
+}
+.btn{
+    border-radius: 0%;
+    color: white;
+    border: none;
+}
+.btn-warning{
+    background-color: orangered;
+}
+.auth{
+    margin-top: -45px;
+}
+
